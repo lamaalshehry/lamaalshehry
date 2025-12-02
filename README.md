@@ -25,11 +25,11 @@
 
 
 <li><h2>Professional Certifications</h2>
-<li><a href="https://github.com/lamaalshehry/Lama_Projects/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf">CompTIA Security+</a><li> 
-<a href="https://github.com/lamaalshehry/Lama_Projects/blob/main/CompTIA%20Network%2B%20ce%20certificate.pdf">CompTIA Network+</a><li>  
-<a href="https://github.com/lamaalshehry/Lama_Projects/blob/main/CompTIA%20Linux%2B%20ce%20certificate.pdf">CompTIA Linux+</a><li> 
-<a href="https://github.com/lamaalshehry/Lama_Projects/blob/main/Cisco%20Certified%20Network%20Associate%20certificate.pdf">CISCO CCNA</a><li> 
-<a href="https://github.com/lamaalshehry/Lama_Projects/blob/main/PMI%20Certfication.pdf">PMI CAPM</a><li> 
+<li><a href="https://github.com/lamaalshehry/Professional_Certifications/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf">CompTIA Security+</a><li> 
+<a href="https://github.com/lamaalshehry/Professional_Certifications/blob/main/CompTIA%20Network%2B%20ce%20certificate.pdf">CompTIA Network+</a><li>  
+<a href="https://github.com/lamaalshehry/Professional_Certifications/blob/main/CompTIA%20Linux%2B%20ce%20certificate.pdf">CompTIA Linux+</a><li> 
+<a href="https://github.com/lamaalshehry/Professional_Certifications/blob/main/Cisco%20Certified%20Network%20Associate%20certificate.pdf">CISCO CCNA</a><li> 
+<a href="https://github.com/lamaalshehry/Professional_Certifications/blob/main/PMI%20Certfication.pdf">PMI CAPM</a><li> 
 
 <h2>Connect with me</h2>
 
