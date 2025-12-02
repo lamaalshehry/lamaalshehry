@@ -5,23 +5,26 @@
 
 <h2> Cybersecurity Projects</h2>
 
-- <b>Biometric Authentication System (CNN + PSO)</b>  
-  - Hybrid deep learning model for iris recognition using Convolutional Neural Networks and Particle Swarm Optimization.
-  - <a href="https://github.com/lamaalshehry/Lama_Projects/blob/main/GP2_Biometric_Athentication%5B1%5D.pdf">Graduation Project Report</a>
+- <b>Azure Honeypot & Microsoft Sentinel Threat Analysis Project</b>  
+  - This project demonstrates a cloud-based honeypot deployment on Microsoft Azure, with log ingestion into Log Analytics Workspace, SIEM integration through Microsoft Sentinel, log enrichment using GeoIP watchlists, and real-time attack visualization.
+  -  **(Add GitHub link)**
 
+
+- <b>Risk Management Policy & Framework (ISO 27001 & NIST SP 800-30)</b>  
+  - Complete structured document covering risk identification, analysis, evaluation, and treatment.  
+  - **(Add GitHub link)**
+
+ 
 - <b>Password Strength Validation System (Java)</b>  
   - Created a password validation system to improve user security. 
   - Added checks for password strength, including length, character types, and dictionary words. 
   - Provided suggestions for stronger passwords.   
   - **(Add GitHub link)**
 
-- <b>Risk Management Policy & Framework (ISO 27001 & NIST SP 800-30)</b>  
-  - Complete structured document covering risk identification, analysis, evaluation, and treatment.  
-  - **(Add GitHub link)**
-
-- <b>Security Monitoring & SOC Practice Labs</b>  
-  - SIEM alert triage, log analysis, threat intelligence enrichment.  
-  - Tools explored: LogRhythm, VirusTotal, Recorded Future sandbox.
+ 
+- <b>Biometric Authentication System (CNN + PSO)</b>  
+  - Hybrid deep learning model for iris recognition using Convolutional Neural Networks and Particle Swarm Optimization.
+  - <a href="https://github.com/lamaalshehry/Lama_Projects/blob/main/GP2_Biometric_Athentication%5B1%5D.pdf">Graduation Project Report</a>
 
 
 <li><h2>Professional Certifications</h2>
