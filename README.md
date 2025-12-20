@@ -19,11 +19,11 @@ I am a Cybersecurity graduate, This GitHub portfolio showcases carefully documen
   - Repository: [Threat Hunting Scenario (Tor Browser Usage)]( https://github.com/lamaalshehry/threat-hunting-scenario-tor)
 
 <li><h2>Professional Certifications</h2>
-<li><a href="https://github.com/user-attachments/files/24256800/CompTIA.Security%2B.ce.certificate.pdf">CompTIA Security+</a><li> 
-<a href="https://github.com/user-attachments/files/24256798/CompTIA.Network%2B.ce.certificate">CompTIA Network+</a><li>  
-<a href="https://github.com/user-attachments/files/24256797/CompTIA.Linux%2B.ce.certificate.pdf">CompTIA Linux+</a><li> 
-<a href="https://github.com/user-attachments/files/24256796/Cisco.Certified.Network.Associate.certificate.pdf">CISCO CCNA</a><li> 
-<a href="https://github.com/user-attachments/files/24256795/PMI.Certfication.pdf">PMI CAPM</a><li> 
+<li><a href="https://github.com/lamaalshehry/Professional_Certifications/blob/4152f966e9502c672aad14d2f42debd50eebdf4d/CompTIA%20Security%2B%20ce%20certificate.pdf">CompTIA Security+</a><li> 
+<a href="https://github.com/lamaalshehry/Professional_Certifications/blob/4152f966e9502c672aad14d2f42debd50eebdf4d/CompTIA%20Network%2B%20ce%20certificate.pdf">CompTIA Network+</a><li>  
+<a href="https://github.com/lamaalshehry/Professional_Certifications/blob/4152f966e9502c672aad14d2f42debd50eebdf4d/CompTIA%20Linux%2B%20ce%20certificate.pdf">CompTIA Linux+</a><li> 
+<a href="https://github.com/lamaalshehry/Professional_Certifications/blob/4152f966e9502c672aad14d2f42debd50eebdf4d/Cisco%20Certified%20Network%20Associate%20certificate.pdf">CISCO CCNA</a><li> 
+<a href="https://github.com/lamaalshehry/Professional_Certifications/blob/4152f966e9502c672aad14d2f42debd50eebdf4d/PMI%20Certfication.pdf">PMI CAPM</a><li> 
 
 <h2>Connect with me</h2>
 
