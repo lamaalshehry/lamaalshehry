@@ -13,16 +13,20 @@ I am a Cybersecurity graduate, This GitHub portfolio showcases carefully documen
   - Repository: [Vulnerability Management Program]( https://github.com/lamaalshehry/Vulnerability-Management-Program)
 
 
+## 🛡️ Azure Sentinel SOC Labs – Incident Detection & Response
+  - This repository demonstrates hands-on SOC L1 experience using Microsoft Sentinel (SIEM) and Microsoft Defender for Endpoint (EDR).
+  - The labs focus on detecting, investigating, and responding to security incidents using real telemetry from Azure, identity, and endpoint sources.
+  - All scenarios follow the NIST 800-61 Incident Response Lifecycle and simulate real SOC workflows.
+  - Repository: [Incident Detection & Response](https://github.com/lamaalshehry/soc_scenarios) 
+
+
+
 ## 🛡️ Threat Hunting and Security Operations
 - **Threat Hunting Use Cases**
   - Simulated a real-world threat hunting scenario by generating malicious activity on an endpoint and proactively analyzing security logs to identify indicators of compromise and document findings, reflecting common SOC and incident response practices
   - Repository: [Threat Hunting Scenario (Tor Browser Usage)]( https://github.com/lamaalshehry/threat-hunting-scenario-tor)
  
-## 🛡️ Azure Sentinel SOC Labs – Incident Detection & Response
-  - This repository demonstrates hands-on SOC L1 experience using Microsoft Sentinel (SIEM) and Microsoft Defender for Endpoint (EDR).
-  - The labs focus on detecting, investigating, and responding to security incidents using real telemetry from Azure, identity, and endpoint sources.
-  - All scenarios follow the NIST 800-61 Incident Response Lifecycle and simulate real SOC workflows.
-  - Repository: 
+
 
 
 
