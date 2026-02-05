@@ -31,7 +31,9 @@ I am a Cybersecurity graduate, This GitHub portfolio showcases carefully documen
 
 
 <li><h2>Professional Certifications</h2>
-<li><a href="https://github.com/lamaalshehry/Professional_Certifications/blob/4152f966e9502c672aad14d2f42debd50eebdf4d/CompTIA%20Security%2B%20ce%20certificate.pdf">CompTIA Security+</a><li> 
+<li>
+<a href="">CompTIA CySA+</a><li>
+<a href="https://github.com/lamaalshehry/Professional_Certifications/blob/4152f966e9502c672aad14d2f42debd50eebdf4d/CompTIA%20Security%2B%20ce%20certificate.pdf">CompTIA Security+</a><li> 
 <a href="https://github.com/lamaalshehry/Professional_Certifications/blob/4152f966e9502c672aad14d2f42debd50eebdf4d/Cisco%20Certified%20Network%20Associate%20certificate.pdf">CISCO CCNA</a><li> 
 <a href="https://github.com/lamaalshehry/Professional_Certifications/blob/4152f966e9502c672aad14d2f42debd50eebdf4d/PMI%20Certfication.pdf">PMI CAPM</a><li> 
 
