@@ -7,7 +7,6 @@ I am a Cybersecurity graduate, This GitHub portfolio showcases carefully documen
 
 
 ## ⚠️ Vulnerability Management Program Implementation
-- **Vulnerability Management Program Implementation (Tenable / Nessus)**
   - This project demonstrates the implementation of an end-to-end **Vulnerability Management Program** using a simulated enterprise environment.
   - The objective of the project is to show how vulnerabilities are managed throughout their lifecycle, starting from policy development and authenticated vulnerability scanning, through prioritization, remediation, and post-remediation verification.
   - Repository: [Vulnerability Management Program]( https://github.com/lamaalshehry/Vulnerability-Management-Program)
@@ -22,7 +21,6 @@ I am a Cybersecurity graduate, This GitHub portfolio showcases carefully documen
 
 
 ## 🛡️ Threat Hunting and Security Operations
-- **Threat Hunting Use Cases**
   - Simulated a real-world threat hunting scenario by generating malicious activity on an endpoint and proactively analyzing security logs to identify indicators of compromise and document findings, reflecting common SOC and incident response practices
   - Repository: [Threat Hunting Scenario (Tor Browser Usage)]( https://github.com/lamaalshehry/threat-hunting-scenario-tor)
  
