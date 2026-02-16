@@ -5,20 +5,16 @@ I am a Cybersecurity graduate, This GitHub portfolio showcases carefully documen
 <a href="https://www.linkedin.com/in/lama-alshehry/">
 </h1>
 
-
-## ⚠️ Vulnerability Management Program Implementation
-  - This project demonstrates the implementation of an end-to-end **Vulnerability Management Program** using a simulated enterprise environment.
-  - The objective of the project is to show how vulnerabilities are managed throughout their lifecycle, starting from policy development and authenticated vulnerability scanning, through prioritization, remediation, and post-remediation verification.
-  - Repository: [Vulnerability Management Program]( https://github.com/lamaalshehry/Vulnerability-Management-Program)
-
-
 ## 🛡️ Azure Sentinel SOC Labs – Incident Detection & Response
   - This repository demonstrates hands-on SOC L1 experience using Microsoft Sentinel (SIEM) and Microsoft Defender for Endpoint (EDR).
   - The labs focus on detecting, investigating, and responding to security incidents using real telemetry from Azure, identity, and endpoint sources.
   - All scenarios follow the NIST 800-61 Incident Response Lifecycle and simulate real SOC workflows.
   - Repository: [Incident Detection & Response](https://github.com/lamaalshehry/soc_scenarios) 
 
-
+## ⚠️ Vulnerability Management Program Implementation
+  - This project demonstrates the implementation of an end-to-end **Vulnerability Management Program** using a simulated enterprise environment.
+  - The objective of the project is to show how vulnerabilities are managed throughout their lifecycle, starting from policy development and authenticated vulnerability scanning, through prioritization, remediation, and post-remediation verification.
+  - Repository: [Vulnerability Management Program]( https://github.com/lamaalshehry/Vulnerability-Management-Program)
 
 ## 🛡️ Threat Hunting and Security Operations
   - Simulated a real-world threat hunting scenario by generating malicious activity on an endpoint and proactively analyzing security logs to identify indicators of compromise and document findings, reflecting common SOC and incident response practices
