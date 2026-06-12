@@ -13,7 +13,7 @@ I am a Cybersecurity graduate, This GitHub portfolio showcases carefully documen
   - Repository: [NIST CSF Cybersecurity Program Assessment](https://github.com/lamaalshehry/nist-csf-cybersecurity-program-assessment)
 
 ## 🛡️ Azure Sentinel SOC Labs – Incident Detection & Response
-  - This repository demonstrates hands-on SOC L1 experience using Microsoft Sentinel (SIEM) and Microsoft Defender for Endpoint (EDR).
+  - This repository demonstrates hands-on SOC L1 experience using Microsoft Sentinel (SIEM).
   - The labs focus on detecting, investigating, and responding to security incidents using real telemetry from Azure, identity, and endpoint sources.
   - All scenarios follow the NIST 800-61 Incident Response Lifecycle and simulate real SOC workflows.
   - Repository: [Incident Detection & Response](https://github.com/lamaalshehry/soc_scenarios) 
