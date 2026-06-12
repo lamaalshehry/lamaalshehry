@@ -5,6 +5,13 @@ I am a Cybersecurity graduate, This GitHub portfolio showcases carefully documen
 <a href="https://www.linkedin.com/in/lama-alshehry/">
 </h1>
 
+
+## 🧭 NIST CSF Cybersecurity Program Assessment & 3-Year Roadmap
+  - Conducted a GRC-focused cybersecurity program assessment for a fictional organization using the NIST Cybersecurity Framework.
+  - Identified key gaps across cybersecurity governance, cyber risk management, asset management, third-party risk management, IAM, vulnerability management, data protection, detection, and incident response.
+  - Developed a professional gap analysis, sample cyber risk register, risk-based recommendations, and a 3-year cybersecurity improvement roadmap.
+  - Repository: [NIST CSF Cybersecurity Program Assessment](https://github.com/lamaalshehry/nist-csf-cybersecurity-program-assessment)
+
 ## 🛡️ Azure Sentinel SOC Labs – Incident Detection & Response
   - This repository demonstrates hands-on SOC L1 experience using Microsoft Sentinel (SIEM) and Microsoft Defender for Endpoint (EDR).
   - The labs focus on detecting, investigating, and responding to security incidents using real telemetry from Azure, identity, and endpoint sources.
